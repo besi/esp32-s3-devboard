@@ -27,3 +27,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+/~S3-Devboard.kicad_sch.lck
+/~S3-Devboard.kicad_pcb.lck
